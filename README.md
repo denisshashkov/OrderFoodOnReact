@@ -1,5 +1,5 @@
 # https://denisshashkov.github.io/OrderFoodOnReact/
 
-# OrderFoodOnReact
+# OrderFoodOnReact with FireBase
 
 
