@@ -41,6 +41,12 @@
   animation: bump 300ms ease-out;
 }
 
+@media screen and (max-width: 580px) {
+  .button {
+    padding: 0.5rem 0.5rem;
+  }
+}
+
 @keyframes bump {
   0% {
     transform: scale(1);
